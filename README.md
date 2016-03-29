@@ -1,1 +1,0 @@
-# encapsulated-designs.github.io
